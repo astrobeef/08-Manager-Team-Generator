@@ -44,10 +44,6 @@ User is prompted to construct their team of Managers, Engineers, and Interns.
 
 ### Link
 
-Deployed Webpage
-
-https://astrobeef.github.io/03-Password-Generator/index.html
-
 
 ### Resources
 
